@@ -1,2 +1,4 @@
 int x = 1;
-// Do not mess this up >:(
+
+// Oops.  Did I do that? :)
+// Don't do that again. >:(
